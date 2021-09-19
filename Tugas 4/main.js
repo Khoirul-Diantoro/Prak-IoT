@@ -3,7 +3,7 @@ function setup(){
 	pinMode(1, OUTPUT); // output bernilai HIGH dan LOW
 }
 
-function loop(){
+function loop(){ // membuat sebuah kondisi
 	var motion = digitalRead(0); // untuk mendeklarasikan motion sebagai inputan.
 	Serial.println(motion); // mengeluarkan data motion.
 	
