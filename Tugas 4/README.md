@@ -1,1 +1,1 @@
-penjelasan di dalam kode dalam bentuk komen
+program mengunakan alat berupa 1 motion sensor, 1 SBC, dan 1 lampu LED. program mengunakn bahasa JavaScript yang berisi input dan output. kemudian ada kondisi dimana jika sensor motion mendeteksi gerakan maka akan menyalakan lampu, dan jika tidak ada gerakan maka lampu akan mati. 
