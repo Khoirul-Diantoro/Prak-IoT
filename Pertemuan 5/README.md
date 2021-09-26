@@ -1,1 +1,1 @@
-
+sistem terdiri dari 1 sensor, 1 server, 1 pc, 2 device. sistem bekerja dengan menggunakan sensor asap sebagai input data, sensor asap akan mendeteksi ketika ada asap yang melibihi batas yang telah ditentukan makan water sprinter akan menyala dan jendela akan terbuka. untuk mengakses sistem dilakukkan dengan melalui Web browser denga menggunakan alamat ip server, untuk mengakses diperlukan username dan password. 
